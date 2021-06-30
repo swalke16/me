@@ -47,8 +47,6 @@ To build healthy and happy individuals, teams, and organizations that contribute
 
 **Myers Briggs -** [INFJ (The Advocate)](https://www.16personalities.com/infj-personality)
 
-**Personalysis**
-
 <img src="Personalysis/Colorgraph.png" width="600">
 
 [Highlights](Personalysis/Highlights.pdf) |
