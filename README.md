@@ -60,7 +60,7 @@ I sometimes become too invested in being a fixer of other people’s problems an
 
 ## **ETHOS:**
 
-Everything has a story. If you understand the story, you understand the thing. The language we use and how we tell those stories matters. We can through language control if something is viewed as a triumph or a tragedy. Telling a story a different way is often an unlock for moving beyond. Our language controls our thoughts, and our thoughts control our actions.
+Everything has a story. If you understand the story, you understand the thing. The language we use and how we tell those stories matters. We can, through language, control if something is viewed as a triumph or a tragedy. Our language controls our thoughts, and our thoughts control our actions. Telling a story a different way is often an unlock for moving beyond.
 
 Never forget my privilege. Educate myself and others about bias. Create diverse teams, communities, and organizations in which everyone feels safe and loved for who they are.
 
@@ -111,6 +111,9 @@ I sometimes suffer from migraine headaches. These usually start with ocular symp
 <br>
 
 ## **WORKING ON:**
+* Understanding the lived experience of diverse populations, how I can better support them, and build teams who do the same.
+* Ways to increase collaboration, connection, and engagement in teams, particularly when remote.
+* Developing my photography skills.
 
 <br>
 
