@@ -1,4 +1,5 @@
 <img src="Photos/scott.png" width="200">&nbsp;<img src="Photos/sw-mtn.jpg" width="200">&nbsp;<img src="Photos/sw-rogue.jpg" width="200">
+
 <img src="Photos/sw-thinker.jpg" width="200">&nbsp;<img src="Photos/sw-tree.jpg" width="200">&nbsp;<img src="Photos/sw-why.jpg" width="200">
 
 # Overview
@@ -48,7 +49,7 @@ To build healthy and happy individuals, teams, and organizations that contribute
 
 **Personalysis**
 
-<img src="Personalysis/Colorgraph.png" width="400">
+<img src="Personalysis/Colorgraph.png" width="600">
 
 [Highlights](Personalysis/Highlights.pdf) |
 [Detailed Report](Personalysis/Detailed%20Report.pdf)
