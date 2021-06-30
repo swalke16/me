@@ -3,6 +3,8 @@
 <img src="Photos/sw-thinker.jpg" width="200">&nbsp;<img src="Photos/sw-tree.jpg" width="200">&nbsp;<img src="Photos/sw-why.jpg" width="200">
 
 # Overview
+This is part of an ongoing project I have in mind around how people get to know each other and how best to use that information to work together in teams.
+
 This is how I **try** to live my life in all things. It's how I want to show up whether at home, at work, or anywhere else. Like any human I am fallible and will mess up from time to time. Anyone has full permission without reproach to call me on behavior that does not seem to match with these things. We all need accountability to aid growth.
 
 <br>
@@ -58,7 +60,7 @@ I sometimes become too invested in being a fixer of other people’s problems an
 
 ## **ETHOS:**
 
-Everything has a story. If you understand the story, you understand the thing. The language we use and how we tell stories matters. We can control if something is depicted as a triumph or a tragedy. Telling a story a different way is often an unlock for moving beyond.
+Everything has a story. If you understand the story, you understand the thing. The language we use and how we tell those stories matters. We can through language control if something is viewed as a triumph or a tragedy. Telling a story a different way is often an unlock for moving beyond. Our language controls our thoughts, and our thoughts control our actions.
 
 Never forget my privilege. Educate myself and others about bias. Create diverse teams, communities, and organizations in which everyone feels safe and loved for who they are.
 
