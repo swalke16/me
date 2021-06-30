@@ -80,7 +80,7 @@ I’m happy to be communicated to in whatever fashion you find best.
 
 **Family —** Always my number one priority. I have a wonderful wife and two kids that mean the world to me.
 
-**Health & Wellness —** I co-own a CrossFit gym (CrossFit Torsion) with my wife and another friend. I believe that health is everything as without it we can’t achieve anything else in life we wish to do. I train five times a week with CrossFit and coach a few times a week because when done well it’s the most effective way to achieve optimal, long term, well-rounded health. I also try to eat clean whole foods the majority of the time to support my wellness goals.
+**Health & Wellness —** I co-own a CrossFit gym ([CrossFit Torsion](https://www.crossfittorsion.com/)) with my wife and another friend. I'm very proud of our community and staff because they are diverse, welcoming, and supportive of everyone. I believe that health is everything as without it we can’t achieve anything else in life we wish to do. I train five times a week with CrossFit training methods and also coach a few times a week because when done well it’s the most effective way to achieve optimal, long term, well-rounded health. Coaching group fitness classes is also a great compliment to managing people in other environments. I also try to eat clean whole foods the majority of the time to support my wellness goals.
 
 **Nature & The Outdoors —** I have always had an affinity for nature and am in my happy place when walking through the woods, hiking in the mountains, or kayaking. I want to retire someday to a house somewhere remote(ish) in the mountains, ideally near a national park.
 
