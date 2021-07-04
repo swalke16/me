@@ -5,6 +5,17 @@
 # Overview
 This is part of an ongoing project I have in mind around how people get to know each other and how best to use that information to work together in teams.
 
+As long as I can remember I've been a believer in the power of language and stories. Possibly because when I was really young books were my portal to another world more interesting than my own. A welcome and safe escape from the problems and drama in my real world at the time. As I became a teenager and learned to express myself via writing I found that the carefully crafted use of words was the one way I could truly impact others -- including those whom might not otherwise have given me the time of day. Words unlocked doors to meaningful conversations and hidden emotions.
+
+As I've grown older and "been through some stuff" of my own, this opinion has only been strengthened by experience. When it feels like your life hangs in the balance, you had best know what to say and how because there might not be another shot. In fact, it is often the lack of knowing what, inability to, or unwillingness to communicate that lands us in "the stuff" in the first place. When we lack the knowledge or language to name what we are feeling or to ask for what we need, how can we expect to have meaningful, fulfilling, or productive relationships with others? In my experience there are few problems that can't be solved once we have the capacity to name and the courage to talk about the actual issue.
+
+Taken a step further, if you examine this in the context of any kind of team environment in which specific domain knowledge, culture, diversity, etc... are complicating factors and where success relies upon the collective, the [communication pathways equation](https://sciencing.com/calculate-communication-channels-8015685.html) means we have a **real** problem! We must understand how to communicate with all of our teammates and they must all in turn understand how to communicate with each other.
+
+With all of that, it should have been no surprise that after listening to [this podcast](https://open.spotify.com/episode/30elYlQiSV03LUiU5mzFwF?si=6556c21aea9644c3) recently I woke up in the middle of the night with a solitary thought consuming me -- __'Why do we wait to tell our stories until we're dead?'__
+
+It is unfortunate that it's often not until mid-life that we're forced to do the work.
+
+
 This is how I **try** to live my life in all things. It's how I want to show up whether at home, at work, or anywhere else. Like any human I am fallible and will mess up from time to time. Anyone has full permission without reproach to call me on behavior that does not seem to match with these things. We all need accountability to aid growth.
 
 <br>
@@ -61,6 +72,24 @@ I sometimes become too invested in being a fixer of other people’s problems an
 ## **ETHOS:**
 
 Everything has a story. If you understand the story, you understand the thing. The language we use and how we tell those stories matters. We can, through language, control if something is viewed as a triumph or a tragedy. Our language controls our thoughts, and our thoughts control our actions. Telling a story a different way is often an unlock for moving beyond.
+
+
+
+My guiding value statements:
+
+All knowledge is worth having.
+
+Things serve a purpose, relationships are valuable.
+
+We don't need another social network. What we do need is smart, passionate people working together to solve real problems.
+
+Building great products is sometimes about the technology, but always about the people.
+
+We are imperfect beings who make mistakes. What is important is to own them and learn from them. Fail often, fail fast.
+
+Fitness and nutrition are paramount to being the best we can be. Without health we have nothing.
+
+
 
 Never forget my privilege. Educate myself and others about bias. Create diverse teams, communities, and organizations in which everyone feels safe and loved for who they are.
 
