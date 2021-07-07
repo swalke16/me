@@ -1,19 +1,33 @@
+# Overview
+This is part of an ongoing project I have in mind around how people get to know each other and how best to use that information to work together in teams. What follows is background on how I arrived upon this idea.
+
+As long as I can remember I've been a believer in the power of language and stories. Possibly because when I was really young books were my portal to another world more interesting than my own. A welcome and safe escape from the problems and drama in my real world at the time. As I became a teenager and learned to express myself via writing I found that the carefully crafted use of words was the one way I could truly impact others -- including those whom might not otherwise have given me the time of day. Words were a bridge between my lived experience and their own. They unlocked doors to meaningful conversations and hidden emotions.
+
+As I've grown older and "been through some stuff" of my own, this opinion has only been strengthened by experience. When it feels like your life hangs in the balance, you had best know what to say and how because there might not be another shot. In fact, it is often the lack of knowing what, inability to, or unwillingness to communicate that lands us in "the stuff" in the first place. When we lack the knowledge or language to name what we are feeling, to ask for what we need, or know why we behave the way that we do, how can we expect to have meaningful, fulfilling, or productive relationships with others?
+
+The unfortunate fact for most of us is that it's not until we hit the bottom that we are forced to do "the work" to figure ourselves out. As children we weren't equipped with the language nor experience to think through it, and our parents were too busy dealing (or not) with their own work to equip us. If we experienced hardship we probably didn't talk about it with our friends because we perceived everyone else as normal and the sense of shame of not being normal was high. Entering into adulthood we begin to understand the importance of "the work" but might think it only applies to OTHER people. You know, the ones that seem to be leading obviously drama filled, complicated lives. It's quite possible though (I'd go so far as to say common) to be leading a life that from most perspectives seems just grand, but in fact is deeply dysfunctional in subtle ways. Heads down in our busyness it becomes quite easy to brush of the effects of our own dysfunctional behaviors until our crucible moment arrives and we are forced to confront the behaviors that don't serve us, or worse, actively cause harm to those we care about. It's only once the pain of doing nothing outweighs the pain of change that we commit to doing something about it.
+
+Even as someone with an interest in "the work" it wasn't until reading [The School of Life](https://www.goodreads.com/book/show/49627657-the-school-of-life) and listening to [this podcast](https://open.spotify.com/episode/30elYlQiSV03LUiU5mzFwF?si=6556c21aea9644c3) that I came to realize that "the work" is really owning your story -- both what has come before AND what is yet to be. For years, despite reading many great books recommending it, I'd passed over the idea of attempting to codify my personal mission, values, etc. because I lacked the framework for how to think about those things. The idea presented in the podcast of writing your life story was an unlock for me because it provided the framework I needed for thinking about the rest. Aside from all the benefits an exercise like this would offer to my personal relationships, as a leader of people for most of my career I am deeply interested in understanding what fundamental aspects of this work can improve work relationships with my teams, and that's where this project was born.
+## The Hypothesis:
+**There is some amount of knowledge that if known about oneself and shared with others from the outset, can act as a catalyst for creating engaged, hyper productive, and connected teams.**
+
+I think David Whyte had it right in his book [The Three Marriages](https://www.goodreads.com/book/show/6052036-the-three-marriages) in that there are more similarities than differences in how we relate to the three primary elements of our lives that determine our happiness: Marriage to Spouse, Marriage to Work, Marriage to Self. All are complicated, require effort, and knowledge of the self in order to navigate successfully.
+
+If you think about this in the context of any kind of team work environment in which success relies upon the collective, you are in essence married not just to the work but also to each of the individuals on the team that contribute to the goal, and therefore have a responsibility to them (as to your spouse) to be accountable for yourself and to communicate in ways that do not harm. Too many times I've seen otherwise good people or teams fail because they don't make it over this hump when in my experience there are few problems that can't be solved once we have the capacity to name and the courage to talk about the actual issue.
+
+What's needed is the set of information that makes the difference and the framework for which to arrive at it. What follows is my attempt to come up with that set of info using myself as an example, and my framework for arriving at it was thinking about my life story. They key events that shaped me, what I've learned, where I've succeeded and where I've failed.
+
+ It's important to note that if you want to try this exercise, everyone doesn't need to hear or understand the gritty details of your whole story, but you do. You need to understand how you want to show up in life and others need to understand how that translates to work so they can be your best accountability partner.
+
+This will evolve over time but it seems like a good place to start.
+
+<br>
+
+# ME
+
 <img src="Photos/scott.png" width="200">&nbsp;<img src="Photos/sw-mtn.jpg" width="200">&nbsp;<img src="Photos/sw-rogue.jpg" width="200">
 
 <img src="Photos/sw-thinker.jpg" width="200">&nbsp;<img src="Photos/sw-tree.jpg" width="200">&nbsp;<img src="Photos/sw-why.jpg" width="200">
-
-# Overview
-This is part of an ongoing project I have in mind around how people get to know each other and how best to use that information to work together in teams.
-
-As long as I can remember I've been a believer in the power of language and stories. Possibly because when I was really young books were my portal to another world more interesting than my own. A welcome and safe escape from the problems and drama in my real world at the time. As I became a teenager and learned to express myself via writing I found that the carefully crafted use of words was the one way I could truly impact others -- including those whom might not otherwise have given me the time of day. Words unlocked doors to meaningful conversations and hidden emotions.
-
-As I've grown older and "been through some stuff" of my own, this opinion has only been strengthened by experience. When it feels like your life hangs in the balance, you had best know what to say and how because there might not be another shot. In fact, it is often the lack of knowing what, inability to, or unwillingness to communicate that lands us in "the stuff" in the first place. When we lack the knowledge or language to name what we are feeling or to ask for what we need, how can we expect to have meaningful, fulfilling, or productive relationships with others? In my experience there are few problems that can't be solved once we have the capacity to name and the courage to talk about the actual issue.
-
-Taken a step further, if you examine this in the context of any kind of team environment in which specific domain knowledge, culture, diversity, etc... are complicating factors and where success relies upon the collective, the [communication pathways equation](https://sciencing.com/calculate-communication-channels-8015685.html) means we have a **real** problem! We must understand how to communicate with all of our teammates and they must all in turn understand how to communicate with each other.
-
-With all of that, it should have been no surprise that after listening to [this podcast](https://open.spotify.com/episode/30elYlQiSV03LUiU5mzFwF?si=6556c21aea9644c3) recently I woke up in the middle of the night with a solitary thought consuming me -- __'Why do we wait to tell our stories until we're dead?'__
-
-It is unfortunate that it's often not until mid-life that we're forced to do the work.
 
 
 This is how I **try** to live my life in all things. It's how I want to show up whether at home, at work, or anywhere else. Like any human I am fallible and will mess up from time to time. Anyone has full permission without reproach to call me on behavior that does not seem to match with these things. We all need accountability to aid growth.
@@ -73,25 +87,17 @@ I sometimes become too invested in being a fixer of other people’s problems an
 
 Everything has a story. If you understand the story, you understand the thing. The language we use and how we tell those stories matters. We can, through language, control if something is viewed as a triumph or a tragedy. Our language controls our thoughts, and our thoughts control our actions. Telling a story a different way is often an unlock for moving beyond.
 
+All knowledge is worth having. Dig deep enough and almost everything has enough nuance to become interesting.
 
-
-My guiding value statements:
-
-All knowledge is worth having.
+Walk towards the fire to put it out.
 
 Things serve a purpose, relationships are valuable.
-
-We don't need another social network. What we do need is smart, passionate people working together to solve real problems.
-
-Building great products is sometimes about the technology, but always about the people.
 
 We are imperfect beings who make mistakes. What is important is to own them and learn from them. Fail often, fail fast.
 
 Fitness and nutrition are paramount to being the best we can be. Without health we have nothing.
 
-
-
-Never forget my privilege. Educate myself and others about bias. Create diverse teams, communities, and organizations in which everyone feels safe and loved for who they are.
+Educate myself and others about bias. Create diverse teams, communities, and organizations in which everyone feels safe and loved for who they are.
 
 <br>
 
@@ -102,6 +108,12 @@ I thrive on having a lot of context — very few details are too small or irrele
 I very highly value the use of language in communications. If I appear quiet in a meeting or conversation I am likely contemplating what I want to say and how. I communicate best in writing so for important topics I will default to writing or at least use written notes to guide my verbal communications.
 
 I’m happy to be communicated to in whatever fashion you find best.
+
+### **Feedback:**
+I'll take it straight, and as close to the time of notice as possible.  Don't beat around the bush.
+
+### **Conflict:**
+If things get really intense I may get quiet and remove myself from the situation for a bit to process my thoughts.
 
 <br>
 
@@ -123,12 +135,10 @@ I’m happy to be communicated to in whatever fashion you find best.
 
 ## **FEARS:**
 
+* Not effectively raising two human beings to be good responsible people.
 * Irresponsible use of technology’s effect on society.
-
 * Rampant consumerism and the resultant destruction of the environment / climate change.
-
 * Current stage Capitalism’s effect on the vulnerable.
-
 * Imposter syndrome
 
 <br>
@@ -142,6 +152,7 @@ I sometimes suffer from migraine headaches. These usually start with ocular symp
 ## **WORKING ON:**
 * Understanding the lived experience of diverse populations, how I can better support them, and build teams who do the same.
 * Ways to increase collaboration, connection, and engagement in teams, particularly when remote.
+* Setting proper boundaries to make sure I don't become emotionally drained.
 * Developing my photography skills.
 
 <br>
@@ -170,9 +181,9 @@ Highly dependent on what mood I’m in or want to be in, I listen to a wide swat
 **Books: ([Goodreads Profile](https://www.goodreads.com/user/show/35240747-scott-walker))**
 
 *   [Dare to Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead?from_search=true&from_srp=true&qid=vXyBZVVuYI&rank=1)
-*   [The School of Life: An Emotional Education](https://www.goodreads.com/notes/49627657-the-school-of-life/35240747-scott-walker?ref=abp)
-*   [Managing Humans](https://www.goodreads.com/notes/31433313-managing-humans/35240747-scott-walker?ref=abp)
-*   [Quiet: The Power of Introverts in a World That Can’t Stop Talking](https://www.goodreads.com/notes/36547901-quiet/35240747-scott-walker?ref=abp)
+*   [The School of Life: An Emotional Education](https://www.goodreads.com/book/show/49627657-the-school-of-life)
+*   [Managing Humans](https://www.goodreads.com/book/show/31433313-managing-humans)
+*   [Quiet: The Power of Introverts in a World That Can’t Stop Talking](https://www.goodreads.com/book/show/36547901-quiet)
 *   [Everything That Remains](https://www.goodreads.com/book/show/20370505-everything-that-remains)
 *   [The Kingkiller Chronicles](https://www.goodreads.com/book/show/37670856-kingkiller-chronicle-patrick-rothfuss-collection-3-books-box-set--giftbo?ac=1&from_search=true&qid=s3lESZCVBG&rank=5)
 
