@@ -1,28 +1,3 @@
-# Overview
-This is part of an ongoing project I have in mind around how people get to know each other and how best to use that information to work together in teams. What follows is background on how I arrived upon this idea.
-
-As long as I can remember I've been a believer in the power of language and stories. Possibly because when I was really young books were my portal to another world more interesting than my own. A welcome and safe escape from the problems and drama in my real world at the time. As I became a teenager and learned to express myself via writing I found that the carefully crafted use of words was the one way I could truly impact others -- including those whom might not otherwise have given me the time of day. Words were a bridge between my lived experience and their own. They unlocked doors to meaningful conversations and hidden emotions.
-
-As I've grown older and "been through some stuff" of my own, this opinion has only been strengthened by experience. When it feels like your life hangs in the balance, you had best know what to say and how because there might not be another shot. In fact, it is often the lack of knowing what, inability to, or unwillingness to communicate that lands us in "the stuff" in the first place. When we lack the knowledge or language to name what we are feeling, to ask for what we need, or know why we behave the way that we do, how can we expect to have meaningful, fulfilling, or productive relationships with others?
-
-The unfortunate fact for most of us is that it's not until we hit the bottom that we are forced to do "the work" to figure ourselves out. As children we weren't equipped with the language nor experience to think through it, and our parents were too busy dealing (or not) with their own work to equip us. If we experienced hardship we probably didn't talk about it with our friends because we perceived everyone else as normal and the sense of shame of not being normal was high. Entering into adulthood we begin to understand the importance of "the work" but might think it only applies to OTHER people. You know, the ones that seem to be leading obviously drama filled, complicated lives. It's quite possible though (I'd go so far as to say common) to be leading a life that from most perspectives seems just grand, but in fact is deeply dysfunctional in subtle ways. Heads down in our busyness it becomes quite easy to brush off the effects of our own dysfunctional behaviors until our crucible moment arrives and we are forced to confront the behaviors that don't serve us, or worse, actively cause harm to those we care about. It's only once the pain of doing nothing outweighs the pain of change that we commit to doing something about it.
-
-Even as someone with an interest in "the work" it wasn't until reading [The School of Life](https://www.goodreads.com/book/show/49627657-the-school-of-life) and listening to [this podcast](https://open.spotify.com/episode/30elYlQiSV03LUiU5mzFwF?si=6556c21aea9644c3) that I came to realize that "the work" is really owning your story -- both what has come before AND what is yet to be. For years, despite reading many great books recommending it, I'd passed over the idea of attempting to codify my personal mission, values, etc. because I lacked the framework for how to think about those things. The idea presented in the podcast of writing your life story was an unlock for me because it provided the framework I needed for thinking about the rest. Aside from all the benefits an exercise like this would offer to my personal relationships, as a leader of people for most of my career I am deeply interested in understanding what fundamental aspects of this work can improve work relationships with my teams, and that's where this project was born.
-## The Hypothesis:
-**There is some amount of knowledge that if known about oneself and shared with others from the outset, can act as a catalyst for creating engaged, hyper productive, and connected teams.**
-
-I think David Whyte had it right in his book [The Three Marriages](https://www.goodreads.com/book/show/6052036-the-three-marriages) in that there are more similarities than differences in how we relate to the three primary elements of our lives that determine our happiness: Marriage to Spouse, Marriage to Work, Marriage to Self. All are complicated, require effort, and knowledge of the self in order to navigate successfully.
-
-If you think about this in the context of any kind of team work environment in which success relies upon the collective, you are in essence married not just to the work but also to each of the individuals on the team that contribute to the goal, and therefore have a responsibility to them (as to your spouse) to be accountable for yourself and to communicate in ways that do not harm. Too many times I've seen otherwise good people or teams fail because they don't make it over this hump when in my experience there are few problems that can't be solved once we have the capacity to name and the courage to talk about the actual issue.
-
-What's needed is the set of information that makes the difference and the framework for which to arrive at it. What follows is my attempt to come up with that set of info using myself as an example, and my framework for arriving at it was thinking about my life story. They key events that shaped me, what I've learned, where I've succeeded and where I've failed.
-
- It's important to note that if you want to try this exercise, everyone doesn't need to hear or understand the gritty details of your whole story, but you do. You need to understand how you want to show up in life and others need to understand how that translates to work so they can be your best accountability partner.
-
-This will evolve over time but it seems like a good place to start.
-
-<br>
-
 # ME
 
 <img src="Photos/scott.png" width="200">&nbsp;<img src="Photos/sw-mtn.jpg" width="200">&nbsp;<img src="Photos/sw-rogue.jpg" width="200">
@@ -31,6 +6,8 @@ This will evolve over time but it seems like a good place to start.
 
 
 This is how I **try** to live my life in all things. It's how I want to show up whether at home, at work, or anywhere else. Like any human I am fallible and will mess up from time to time. Anyone has full permission without reproach to call me on behavior that does not seem to match with these things. We all need accountability to aid growth.
+
+My thought process behind this is explained [here](Framework.md)).
 
 <br>
 
