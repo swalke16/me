@@ -7,7 +7,7 @@
 
 This is how I **try** to live my life in all things. It's how I want to show up whether at home, at work, or anywhere else. Like any human I am fallible and will mess up from time to time. Anyone has full permission without reproach to call me on behavior that does not seem to match with these things. We all need accountability to aid growth.
 
-My thought process behind this is explained [here](Framework.md)).
+My thought process behind this is explained [here](Framework.md).
 
 <br>
 
