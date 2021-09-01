@@ -144,6 +144,7 @@ Too many to list easily, I have a whole library of things I’ve saved over the 
 *   _“To do the useful thing, to say the courageous thing, to contemplate the beautiful thing: that is enough for one man's life.”_ ~T.S. Eliot
 *   _“Nothing ever goes away until it teaches us what we need to know.”_ ~ Pema Chödrön
 *   _“Love people, use things because the opposite never works.”_ ~ The Minimalists
+*   _"I just want to live in a world of mountains, coffee, campfires, cabins, and golden trees, and run around with a camera, and notebook learning the inner workings of everything real."_ ~Victoria Erickson
 
 **Music: ([Spotify Profile](https://open.spotify.com/user/scott%2Bwalker))**
 
